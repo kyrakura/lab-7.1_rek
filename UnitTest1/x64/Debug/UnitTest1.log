@@ -1,0 +1,6 @@
+﻿  pch.cpp
+  UnitTest1.cpp
+D:\project C++\lab 7.1-a.rek\lab 7.1-a.rek\lab 7.1-a.rek.cpp(122,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\project C++\lab 7.1-a.rek\UnitTest1\UnitTest1.cpp(17,23): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+     Создается библиотека D:\project C++\lab 7.1-a.rek\x64\Debug\UnitTest1.lib и объект D:\project C++\lab 7.1-a.rek\x64\Debug\UnitTest1.exp
+  UnitTest1.vcxproj -> D:\project C++\lab 7.1-a.rek\x64\Debug\UnitTest1.dll
